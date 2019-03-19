@@ -1,2 +1,2 @@
-# AudioToText
-Translating Audio .mp3 files into text documents
+# Glaucoma Project
+Detecting Glaucoma in retinal images
