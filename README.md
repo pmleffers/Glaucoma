@@ -6,6 +6,7 @@ complex, but is often associated with elevated intraocular pressure, optic nerve
 damage, and reduction in visual acuity and visual field1. Vision loss from glaucoma is
 permanent, but progression may be slowed or halted through early diagnosis and
 treatment.
+
 Client : Cambia Health is looking to hire an outside consultant use Cambia’s collection
 of retinal images to help develop a machine learning algorithm to ultimately reduce
 medical practitioner time diagnosing patients with Glaucoma.
@@ -16,6 +17,7 @@ already preprocessed, (scaled to 800 pixels and cropped so the nerve endings are
 240 pixels) thus ready to be used for machine learning tasks. However, this dataset will
 present itself particularly challenging as the number of retinal images needed for this
 task are less than desirable; thus representing a real-world problem of its own.
+
 Approach : Time permitting I will use code to increase the size of the dataset with
 additional images by adding rotation and distortions to images, thereby hopefully
 increasing accuracy and generalizability of the model I intend to build. I will be building a
