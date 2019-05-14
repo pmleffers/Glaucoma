@@ -4,7 +4,6 @@
 # for serving inferences in a stable way.
 #-----------------------------------------------------------------------------
 
-#FROM ubuntu:16.04
 FROM nvidia/cuda:9.0-runtime
 
 MAINTAINER PIETER LEFFERS
