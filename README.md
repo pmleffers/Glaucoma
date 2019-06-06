@@ -35,3 +35,5 @@ short video presentation.
 https://www.aoa.org/patients-and-public/eye-and-vision-problems/glossary-of-eye-and-vision-conditions. Accessed
 June 7, 2018.
 2 Kim, Ungsoo, 2018, "Machine learn for glaucoma", https://doi.org/10.7910/DVN/1YRRAC , Harvard Dataverse, V1
+
+## Conclusion
