@@ -37,3 +37,9 @@ June 7, 2018.
 2 Kim, Ungsoo, 2018, "Machine learn for glaucoma", https://doi.org/10.7910/DVN/1YRRAC , Harvard Dataverse, V1
 
 ## Conclusion
+            precision    recall  f1-score   support
+
+      cases       0.92      0.95      0.94        88
+   controls       0.97      0.96      0.97       163
+
+avg / total       0.96      0.96      0.96       251
