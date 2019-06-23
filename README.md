@@ -1,6 +1,6 @@
 # Glaucoma Project
 ## Summary
-### Problem : Glaucoma is a general term for a number of eye conditions that progressively
+Problem : Glaucoma is a general term for a number of eye conditions that progressively
 damage the optic nerve,consequently causing vision loss. Diagnosis of glaucoma is
 complex, but is often associated with elevated intraocular pressure, optic nerve
 damage, and reduction in visual acuity and visual field1. Vision loss from glaucoma is
