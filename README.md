@@ -1,13 +1,13 @@
 # Glaucoma Project
 ## Summary
-Problem : Glaucoma is a general term for a number of eye conditions that progressively
+**Problem** : Glaucoma is a general term for a number of eye conditions that progressively
 damage the optic nerve,consequently causing vision loss. Diagnosis of glaucoma is
 complex, but is often associated with elevated intraocular pressure, optic nerve
 damage, and reduction in visual acuity and visual field1. Vision loss from glaucoma is
 permanent, but progression may be slowed or halted through early diagnosis and
 treatment.
 
-Client : Cambia Health is looking to hire an outside consultant use Cambia’s collection
+**Client** : Cambia Health is looking to hire an outside consultant use Cambia’s collection
 of retinal images to help develop a machine learning algorithm to ultimately reduce
 medical practitioner time diagnosing patients with Glaucoma.
 Data : For this project I will use data gathered from the Harvard Dataverse collected and
@@ -18,7 +18,7 @@ already preprocessed, (scaled to 800 pixels and cropped so the nerve endings are
 present itself particularly challenging as the number of retinal images needed for this
 task are less than desirable; thus representing a real-world problem of its own.
 
-Approach : Time permitting I will use code to increase the size of the dataset with
+**Approach** : Time permitting I will use code to increase the size of the dataset with
 additional images by adding rotation and distortions to images, thereby hopefully
 increasing accuracy and generalizability of the model I intend to build. I will be building a
 Convolutional Neural Network model using Keras. Because the dataset is of smaller in
