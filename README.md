@@ -39,7 +39,6 @@ June 7, 2018.
 ## Conclusion
             precision    recall  f1-score   support
 
-      cases       0.92      0.95      0.94        88
-   controls       0.97      0.96      0.97       163
-
-avg / total       0.96      0.96      0.96       251
+      cases          0.92      0.95      0.94        8
+      controls       0.97      0.96      0.97       163
+      avg / total    0.96      0.96      0.96       251
