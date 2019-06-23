@@ -31,10 +31,10 @@ within Sagemaker. The code, Docker file, Sagemaker files, and Jupyter Notebooks 
 be available on Github. I intend to write a blog about the process as well as provide a
 short video presentation.
 
-1 American Optometric Association. Glossary of Common Eye & Vision Conditions website.
+1 *American Optometric Association. Glossary of Common Eye & Vision Conditions website.
 https://www.aoa.org/patients-and-public/eye-and-vision-problems/glossary-of-eye-and-vision-conditions. Accessed
-June 7, 2018.
-2 Kim, Ungsoo, 2018, "Machine learn for glaucoma", https://doi.org/10.7910/DVN/1YRRAC , Harvard Dataverse, V1
+June 7, 2018.*
+2 *Kim, Ungsoo, 2018, "Machine learn for glaucoma", https://doi.org/10.7910/DVN/1YRRAC , Harvard Dataverse, V1*
 
 ## Conclusion
                      precision    recall  f1-score   support
