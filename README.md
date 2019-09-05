@@ -6,7 +6,7 @@
 [Glaucoma Analysis](https://nbviewer.jupyter.org/github/pmleffers/Glaucoma/blob/c75c62f0807faa46767beccae5a934d99877bd74/Glaucoma%20Analysis.ipynb)
 
 **Problem** : Glaucoma is a general term for a number of eye conditions that progressively
-damage the optic nerve,consequently causing vision loss. Diagnosis of glaucoma is
+damage the optic nerve, consequently causing vision loss. Diagnosis of glaucoma is
 complex, but is often associated with elevated intraocular pressure, optic nerve
 damage, and reduction in visual acuity and visual field1. Vision loss from glaucoma is
 permanent, but progression may be slowed or halted through early diagnosis and
@@ -43,6 +43,8 @@ June 7, 2018.*
 2. *Kim, Ungsoo, 2018, "Machine learn for glaucoma", https://doi.org/10.7910/DVN/1YRRAC , Harvard Dataverse, V1*
 
 ## Results
+
+[Glaucoma Detector](https://nbviewer.jupyter.org/github/pmleffers/Glaucoma/blob/1ed59761fdacb7374162ea732818d1fb94e033c5/Glaucoma%20Detector.ipynb)
 The training set had 80% of the data to work with and the rest was equally split between validation and testing sets with 20% of the data being augmented. After a fair amount of experimentation the hyperparameters I had decided to use were 49 epochs, with batch sizes of 50, and a learning rate of 0.02 and regularization parameter (lambda) of 0.0001. The results seem to look pretty good. I suspect there may be some overfitting happening with the data, but when I checked the model to predict an image after training the results seem to work fine. Unfortunately I don’t have access to any novel retinal images to test the model against to really get a true sense of the generalizability of the model but the printouts seem to look fairly convincing.
 
                      precision    recall  f1-score   support
@@ -50,7 +52,7 @@ The training set had 80% of the data to work with and the rest was equally split
       controls       0.97         0.96    0.97       163
       avg / total    0.96         0.96    0.96       251
  
-
+## Additional
 
 
 
