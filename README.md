@@ -54,8 +54,8 @@ The training set had 80% of the data to work with and the rest was equally split
       avg / total    0.96         0.96    0.96       251
  
 ## Additional
+[Glaucoma Model AWS Endpoint](https://nbviewer.jupyter.org/github/pmleffers/Glaucoma/blob/master/model_2_sagemaker/Glaucoma%20Model%20to%20Endpoint.ipynb)
 
-
-
+Now that the Keras model has been been trained and saved its time to deploy the model for use. Although you may use flask and a web framework from scratch to deploy the model; however, doing so would be beyond the scope of this project for sure. For ease and simplicity AWS Sagemaker is a good choice, but I have found during the course of this project that although Sagemaker makes it easy to host and deploy your models, the documentation on doing so isn't necessarily good and doesn't have the ease of functionality that I would prefer. Fortunately for others whom have trained their own models in Keras, you can follow this notebook to deploy a model and create a Sagemaker endpoint in order to connect to a web framework and start running inferencing on batches of data.
 
 
