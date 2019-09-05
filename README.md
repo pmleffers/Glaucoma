@@ -1,7 +1,9 @@
 
 
-[Glaucoma Project](https://nbviewer.jupyter.org/github/pmleffers/Customer_Behavior_Prediction/blob/master/Customer_Behavior_Prediction_EDA_Metrics.ipynb)
+
 ## Summary
+
+[Glaucoma Analysis](https://nbviewer.jupyter.org/github/pmleffers/Glaucoma/blob/c75c62f0807faa46767beccae5a934d99877bd74/Glaucoma%20Analysis.ipynb)
 
 **Problem** : Glaucoma is a general term for a number of eye conditions that progressively
 damage the optic nerve,consequently causing vision loss. Diagnosis of glaucoma is
