@@ -60,4 +60,4 @@ Now that the Keras model has been been trained and saved its time to deploy the 
 
 
 
-[![Why do you want to be a Data Scientist]](https://www.youtube.com/watch?v=cDMgkMWaCCc)
+[![Why do you want to be a Data Scientist](https://www.youtube.com/watch?v=cDMgkMWaCCc)
