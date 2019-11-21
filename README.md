@@ -8,7 +8,7 @@
 **Problem** : Glaucoma is a general term for a number of eye conditions that progressively
 damage the optic nerve, consequently causing vision loss. Diagnosis of glaucoma is
 complex, but is often associated with elevated intraocular pressure, optic nerve
-damage, and reduction in visual acuity and visual field1. Vision loss from glaucoma is
+damage, and reduction in visual acuity and visual field [1]. Vision loss from glaucoma is
 permanent, but progression may be slowed or halted through early diagnosis and
 treatment.
 
@@ -16,7 +16,7 @@ treatment.
 of retinal images to help develop a machine learning algorithm to ultimately reduce
 medical practitioner time diagnosing patients with Glaucoma.
 Data : For this project I will use data gathered from the Harvard Dataverse collected and
-uploaded by Ungsoo Kim2. The retinal image dataset consists of 788 ‘normal control’
+uploaded by Ungsoo Kim [2]. The retinal image dataset consists of 788 ‘normal control’
 images, 289 ‘early stage’ images, and 467 ‘advanced stage’ images.The images are
 already preprocessed, (scaled to 800 pixels and cropped so the nerve endings are of
 240 pixels) thus ready to be used for machine learning tasks. However, this dataset will
